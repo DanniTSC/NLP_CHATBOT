@@ -1,0 +1,1 @@
+#necesar pentru a importa module, marcheaza folderul meu ca pachet python
