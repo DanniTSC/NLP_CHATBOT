@@ -17,7 +17,7 @@ Un chatbot simplu care rulează în terminal și folosește NLP pentru a înțel
 
 ##  Tehnologii
 
-- Python 3.x
+- Python
 - `spaCy`, `pandas`, `rich`
 - Structură OOP cu clase
 - Git + GitHub
